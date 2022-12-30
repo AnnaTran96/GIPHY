@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "bl": "^4.0.3",
-    "mocha": "^8.1.0",
+    "mocha": "^8.4.0",
     "puppeteer-to-istanbul": "^1.4.0"
   },
   "devDependencies": {
